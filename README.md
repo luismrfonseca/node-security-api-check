@@ -2,6 +2,8 @@
 
 Professional API Security Testing Tool for penetration testing and vulnerability assessment.
 
+![dashboard](https://github.com/luismrfonseca/securityapicheck/dashboard.png)
+
 ## ⚠️ Legal Disclaimer
 
 **USE ONLY ON SYSTEMS YOU OWN OR HAVE EXPLICIT PERMISSION TO TEST**
