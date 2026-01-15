@@ -1,0 +1,10 @@
+export { testBruteForce } from './brute-force.js';
+export { testRateLimiting } from './rate-limiting.js';
+export { testSQLInjection } from './sql-injection.js';
+export { testXSS } from './xss.js';
+export { testSecurityHeaders } from './security-headers.js';
+export { testCORS } from './cors.js';
+export { testJWT } from './jwt.js';
+export { testAuthentication } from './authentication.js';
+export { discoverEndpoints } from './endpoint-discovery.js';
+export { testTimingAttacks } from './timing-attacks.js';
