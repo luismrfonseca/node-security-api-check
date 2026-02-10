@@ -8,15 +8,22 @@
     "start": "node server.js",
     "dev": "node --watch server.js"
   },
-  "keywords": ["security", "api", "testing", "penetration", "brute-force"],
+  "keywords": [
+    "security",
+    "api",
+    "testing",
+    "penetration",
+    "brute-force"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2",
+    "@vercel/analytics": "^1.6.1",
     "axios": "^1.6.0",
-    "jsonwebtoken": "^9.0.2",
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
-    "helmet": "^7.1.0"
+    "express": "^4.18.2",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2"
   }
 }
